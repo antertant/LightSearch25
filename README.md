@@ -2,7 +2,7 @@
 A light BM25-based full-text search engine written in Java.
 
 # **Introduction**
-This project contains both indexer and search engine, and the search engine algorithm is BM25. 
+This project contains both indexer and search engine, and the search engine is based on BM25 algorithm. 
 To make the engine work correctly, your data needs to follow the format of <sample.xml>, otherwise, you need to modify the engine to fit your own data format.
 
 # **Build & Run Instructions**
@@ -52,7 +52,7 @@ You should enter your query after seeing the "Enter your query:" in the terminal
 top-10 results of your query. To see the full document, type the corresponding rank number and push "Enter". To 
 start a new query, type "N". To quit the system, type "Q".
 
-# **Running Demo**
+# **Demo**
 Below is a demo to query articles in TREC latimes dataset through this search engine.
 
 ![](https://github.com/antertant/LightSearch25/blob/main/example.gif)
