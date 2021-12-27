@@ -53,6 +53,6 @@ top-10 results of your query. To see the full document, type the corresponding r
 start a new query, type "N". To quit the system, type "Q".
 
 # **Running Demo**
-Below is a demo to use this engine to index TREC latimes data and query articles in it.
+Below is a demo to query articles in TREC latimes dataset through this search engine.
 
 ![](https://github.com/antertant/LightSearch25/blob/main/example.gif)
